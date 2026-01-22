@@ -48,8 +48,13 @@ ul {
 .header-body img {
   height: 200px;
   width: 300px;
-}
+} 
 
+/* Style header */
+.header-main p {
+  color: #F9FAF8;
+  font-size: 24px;
+}
 /* Style main text */
 .header-text h1 {
   font-size: 48px;
@@ -84,8 +89,22 @@ ul {
   flex-direction: row;
   justify-content: center;
   align-items: center;
-  padding: 30px 50px;
+  padding: 30px 70px;
   gap: 40px;
 }
-
+/* Style signup */
+.signup {
+  background-color: rgb(33, 72, 215);
+  color: white;
+  border: 0px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  max-width: 70px;
+  min-height: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 5px;
+}
 /* --Session One--  */
