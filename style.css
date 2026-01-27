@@ -149,9 +149,10 @@ ul {
 /* style class and position div */
 .third-section {
   background-color: #E5E7EB;
-  padding: 90px;
+  padding: 0px;
   display: flex;
   justify-content: center;
   align-items: center;
+  min-height: 150px;
+  height: auto;
 }
-/* Session Three */
