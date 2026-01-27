@@ -143,3 +143,15 @@ ul {
     flex-wrap: wrap;
   }
 /* Session Two */
+
+/* Session Three */
+
+/* style class and position div */
+.third-section {
+  background-color: #E5E7EB;
+  padding: 90px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+/* Session Three */
