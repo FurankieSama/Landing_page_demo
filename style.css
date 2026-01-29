@@ -102,10 +102,6 @@ ul {
   justify-content: flex-start;
   max-width: 70px;
   min-height: 10px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  border-radius: 5px;
 }
 /* --Session One--  */
 
@@ -181,3 +177,45 @@ ul {
   font-style: normal;
 } 
 /* Session Three */
+
+/* Session Four */
+.fourth-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 40px 60px;
+  background-color: #4285f4; /* Bright blue */
+  border-radius: 10px;
+  color: white;
+  font-family: sans-serif;
+}
+
+.fourth-text {
+  margin: 0 0 8px 0;
+  font-size: 24px;
+}
+
+.fourth-text p {
+  margin: 0;
+  font-size: 16px;
+}
+
+.fourth-content .signup {
+  color: white;
+  border: 2px solid white;
+  border-radius: 8px;
+  
+  /* Sizing */
+  padding: 10px 30px;
+  font-size: 15px;
+  font-weight: bold;
+   display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  flex-direction: row;
+  max-width: 70px;
+  min-height: 10px;
+}
+/* Session Four */
